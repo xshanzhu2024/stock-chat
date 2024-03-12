@@ -7,7 +7,11 @@ setup(
     author='xshanzhu2024',
     author_email='xshanzhu2024@gmail.com',
     description='agent for stock with gptchat',
+<<<<<<< HEAD
+    long_description='agent for stock with gptchat¡£you can search stock trends .',
+=======
     long_description='agent for stock with gptchat',
+>>>>>>> dd5c51818a4c0553b9928b8b201902cf7a40bd9d
     long_description_content_type='text/markdown',
     url='https://github.com/xshanzhu2024/stock-chat',
     install_requires=[
